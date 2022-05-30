@@ -6,7 +6,7 @@
 </p>
   <p align="center">
 
-- Recognize images wrapped onto objects that are cylindrical or close to in shape. Created with love to tornado energy drink <3
+- Recognizes images wrapped onto objects that are cylindrical or close to in shape. Created with love to tornado energy drink <3
 - Status: finished (will be improved)
 
 # Screenshots
